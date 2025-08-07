@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Inter';
+    font-stretch: 100;
+    font-style: normal;
+    font-weight: 100-900;
+    src: url('../static/Inter-VariableFont_opsz\,wght.ttf') format('truetype');
+}
